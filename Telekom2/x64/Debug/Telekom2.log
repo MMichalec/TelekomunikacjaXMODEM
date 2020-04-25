@@ -1,0 +1,12 @@
+﻿  Interface.cpp
+  Port.cpp
+X:\MyOwnPrograms\Telekomy\VS_T02\Telekom2\Telekom2\Port.cpp(108,16): warning C4018: '<': signed/unsigned mismatch
+X:\MyOwnPrograms\Telekomy\VS_T02\Telekom2\Telekom2\Port.cpp(213,12): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+X:\MyOwnPrograms\Telekomy\VS_T02\Telekom2\Telekom2\Port.cpp(213,12): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+X:\MyOwnPrograms\Telekomy\VS_T02\Telekom2\Telekom2\Port.cpp(222,11): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+X:\MyOwnPrograms\Telekomy\VS_T02\Telekom2\Telekom2\Port.cpp(222,11): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+X:\MyOwnPrograms\Telekomy\VS_T02\Telekom2\Telekom2\Port.cpp(222,11): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+X:\MyOwnPrograms\Telekomy\VS_T02\Telekom2\Telekom2\Port.cpp(222,11): warning C4566: character represented by universal-character-name '\u0107' cannot be represented in the current code page (1252)
+X:\MyOwnPrograms\Telekomy\VS_T02\Telekom2\Telekom2\Port.cpp(525,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+  Generating Code...
+  Telekom2.vcxproj -> X:\MyOwnPrograms\Telekomy\VS_T02\Telekom2\x64\Debug\Telekom2.exe
